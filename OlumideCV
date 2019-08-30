@@ -1,0 +1,40 @@
+<html>
+<head>
+<!--myCV.html-->
+<title tyle="color:White";> My very CV!</title>
+</head>
+
+<body background="cbackground.gif">
+
+<h1 style="color:#FF0000"; align ="Center"> Olumide Olowe CV </h1>
+<p style="color:black" align ="Center"> front-end enthusiast </p>
+<hr length="100%" align="center">
+<h2 style="color:#FF0000"; align="left"> Personal data </h2>
+<hr length="20%" align="left">
+<ul style="list-style-type:disc;">
+<li style="color:black" align ="left"> Age: 28</li>
+<li style="color:black" align ="left"> Location: Lagos </li>
+<li style="color:black" align ="left"> Nationality: Nigerian</li>
+</ul>
+<h3 style="color:#FF0000"; align="left"> Education </h3>
+<hr length="20%" align="left">
+<ul style="list-style-type:disc;">
+<li style="color:black" align ="left"> University of Abeokuta, Nigeria</li>
+</ul>
+<h4 style="color:black" align="left"> Course: Aquaculture and Fisheries </h4>
+<h5 style="color:#FF0000"; align="left"> Work Experience </h2>
+<hr length="20%" align="left">
+<ul style="list-style-type:disc;">
+<li style="color:black" align ="left"> 2016 - present: Freelancer </li>
+</ul>
+
+<h6 style="color:#FF0000"; align="left"> Hobbies </h2>
+<hr length="20%" align="left">
+<ul style="list-style-type:disc;">
+<li style="color:black" align ="left"> <em>football </em></li>
+<li style="color:black" align ="left"> <em>music </em></li>
+<li style="color:black" align ="left"> <em>writing </em></li>
+</ul>
+</body>
+</html>
+                                                                                                                                                                                                                                                                                                                                      
